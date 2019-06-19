@@ -28,7 +28,6 @@ namespace EnFramework
             Double = 2,
             Triple = 3,
             Quadruple = 4
-
         }
 
     }
