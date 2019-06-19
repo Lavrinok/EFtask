@@ -21,7 +21,6 @@ namespace EnFramework
             FirstLevel = 1,
             SecondLevel = 2,
             ThirdLevel = 3
-                
         }
         public enum Capabilities
         {
